@@ -1,0 +1,18 @@
+Artificial Intelligence is changing the way people work and learn.
+Python is one of the most popular programming languages for AI. File
+handling allows programs to read and write data. A text file can store
+information permanently. The open() function is used to open a file.
+Files can be opened in read, write, or append mode. Reading a file helps
+retrieve stored information. Writing to a file creates or updates its
+contents. Appending adds new data without removing old data. It is
+important to close a file after using it. The with statement closes
+files automatically. Exception handling can prevent file-related errors.
+Students often use text files for practice programs. Data stored in
+files can be processed later. Python makes file handling simple and
+efficient. Learning file handling is useful for real-world applications.
+Practice improves programming skills every day. Consistency is the key
+to becoming a better programmer. Always test your code before submitting
+assignments. Keep learning and building new projects.
+This is the new line added to the file.
+This is another new line added to the file.
+This line is added using append mode.
